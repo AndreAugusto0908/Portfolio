@@ -37,10 +37,20 @@ npm run dev
 
 Agora, acesse http://localhost:5173/ no seu navegador para ver o portfólio rodando! 🚀
 
+
+---
+
+
 ### 📩 Contato
 📧 Email: andreaugustosilvacarvalho@gmail.com
 
 🔗 LinkedIn: [Linkledin](https://www.linkedin.com/in/andreaugustocarvalho/)
+
+
+
+---
+
+
 
 ### 💡 Contribuições
 Se você tiver sugestões ou melhorias, fique à vontade para abrir um Pull Request ou me enviar uma mensagem! 🤝
