@@ -38,11 +38,11 @@ const Navbar = () => {
       </ul>
 
       <ul className="hidden md:flex gap-5">
-        <li className="cursor-pointer text-x1 opacity-70 transition-all duration-300 hover:text-red-500 hover:opacity-100">
+        <li className="cursor-pointer text-x1 opacity-70 transition-all duration-300 hover:text-blue-500 hover:opacity-100">
           <BsLinkedin></BsLinkedin>
         </li>
 
-        <li className="cursor-pointer text-x1 opacity-70 transition-all duration-300 hover:text-red-500 hover:opacity-100">
+        <li className="cursor-pointer text-x1 opacity-70 transition-all duration-300 hover:text-white hover:opacity-100">
           <BsGithub></BsGithub>
         </li>
       </ul>
@@ -76,11 +76,11 @@ const Navbar = () => {
             </ul>
 
             <ul className="flex flex-wrap gap-5">
-              <li className="cursor-pointer text-x1 opacity-70 transition-all duration-300 hover:text-red-500 hover:opacity-100">
+              <li className="cursor-pointer text-x1 opacity-70 transition-all duration-300 hover:text-blue-500 hover:opacity-100">
                 <BsLinkedin></BsLinkedin>
               </li>
 
-              <li className="cursor-pointer text-x1 opacity-70 transition-all duration-300 hover:text-red-500 hover:opacity-100">
+              <li className="cursor-pointer text-x1 opacity-70 transition-all duration-300 hover:text-white hover:opacity-100">
                 <BsGithub></BsGithub>
               </li>
             </ul>
