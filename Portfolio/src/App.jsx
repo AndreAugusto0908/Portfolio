@@ -8,8 +8,7 @@ import Tech from "./components/Tech"
 function App() {
   return (
     <>
-      <div className="fixed inset-0 -z-10 h-screen w-screen bg-[radial-gradient(125%_125%_at_50%_10%,#000_40%,#63e_100%)]"></div>
-      <div className="relative min-h-screen w-full overflow-auto">
+      <div className="fixed -z-10 min-h-screen w-full bg-[radial-gradient(125%_125%_at_50%_10%,#000_40%,#63e_100%)]"></div>
         <main className="flex flex-col items-center px-4 md:px-8 lg:px-16">
           <Navbar />
           <Hero />
@@ -17,7 +16,6 @@ function App() {
           <Projects />
           <Contact />
         </main>
-      </div>
     </>
   );
 }
