@@ -26,7 +26,7 @@ const Tech = () => {
       variants={variaveis}
       initial="hidden"
       whileInView="visible"
-      transition={{duration:0.5}}
+      transition={{duration:0.8}}
       
       className="text-4xl font-light text-white md:text-6xl">
         Tecnologias
@@ -37,7 +37,7 @@ const Tech = () => {
           <motion.div
           initial="hidden"
           whileInView="visible"
-          transition={{duration:0.5}}
+          transition={{duration: 0.8}}
           
           key={index}>
             <Icon className={`cursor-pointer text-[80px] ${color} transition-all duration-300
